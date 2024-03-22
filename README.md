@@ -10,6 +10,7 @@ Data Preparation and Data Mining
   
 Final score = Score * %attendance
 -------------------------------------------------------------------
+#HOMEWORK
 #HOMEWORK1 CODE
 - https://github.com/PunnitaThongbor/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb
 #HOMEWORK2 CODE
