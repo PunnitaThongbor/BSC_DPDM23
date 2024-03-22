@@ -11,14 +11,19 @@ Data Preparation and Data Mining
 Final score = Score * %attendance
 -------------------------------------------------------------------
 #HOMEWORK
+
 #HOMEWORK1 CODE
 - https://github.com/PunnitaThongbor/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb
+  
 #HOMEWORK2 CODE
 - https://github.com/PunnitaThongbor/BSC_DPDM23/blob/main/Hw2_643020508-2.pdf
+  
 #HOMEWORK3 CODE
 - https://github.com/PunnitaThongbor/BSC_DPDM23/blob/main/Classification.ipynb
+  
 #HOMEWORK4 CODE
 - https://github.com/PunnitaThongbor/BSC_DPDM23/blob/main/%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%93-Decision-Tree-Min-weight-fraction-Leaf-HW4.pdf
+  
 #HOMEWORK5 CODE
 - https://github.com/PunnitaThongbor/BSC_DPDM23/blob/main/Hw5.pdfz
 -------------------------------------------------------------------
